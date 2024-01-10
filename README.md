@@ -1,5 +1,5 @@
-### Hi there 👋
-
+- 👋 Hi, I’m Bachu Chewang Pelden
+- 🌱 I’m currently pursuing a Bachelor's degree in Computer Engineering
 <!--
 **BachuChewangPelden/BachuChewangPelden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
